@@ -30,4 +30,4 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
    ```bash
 https://res.cloudinary.com/duo6rqxso/image/upload/v1753704444/Screenshot_2025-07-28_172635_fdmfsa.png  
- ```bash
+ ```
