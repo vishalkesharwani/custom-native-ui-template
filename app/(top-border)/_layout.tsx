@@ -128,7 +128,7 @@ export default function TabLayout() {
         options={{
           title: 'Profile',
           tabBarIcon: ({ color, focused }) => (
-            <TabIcon name={focused ? require('../../assets/images/icons/profile-filled.png') : require('../../assets/images/icons/profile-outlined.png')} label="Profile" focused={focused} />
+            <TabIcon name={focused ? require('../../assets/images/icons/profile-filled-blue.png') : require('../../assets/images/icons/profile-outlined.png')} label="Profile" focused={focused} />
           ),
         }}
       />

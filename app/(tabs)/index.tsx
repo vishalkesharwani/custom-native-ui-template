@@ -10,6 +10,7 @@ export default function Screen() {
 
       <Button title="floating-tabs" onPress={() => router.push('/(floating-tabs)')} />
       <Button title="Border Top" onPress={() => router.push('/(top-border)')} />
+      <Button title="Curved Tab" onPress={() => router.push('/(curved-tab)/feed')} />
     </View>
   );
 }
