@@ -50,4 +50,12 @@ Join our community of developers creating universal apps.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
 
+# For Curved Bottom tab go to the folder (curved-tab)
 <img src="https://res.cloudinary.com/duo6rqxso/image/upload/v1753704444/Screenshot_2025-07-28_172635_fdmfsa.png" width="400" />
+
+# For Border Top Bottom tab go to the folder (top-border)
+<img src="https://res.cloudinary.com/duo6rqxso/image/upload/v1753704837/WhatsApp_Image_2025-07-28_at_5.25.37_PM_dh1zlf.jpg" width="400" />
+
+
+# For Floating Bottom tab go to the folder (top-border)
+<img src="https://res.cloudinary.com/duo6rqxso/image/upload/v1753704964/WhatsApp_Image_2025-07-28_at_5.25.36_PM_ar3uc1.jpg" width="400" />
